@@ -1,5 +1,5 @@
 body {
-  background: url(../w3develops.image.jpg) no-repeat center center fixed;
+  background: url(../carpenter.jpg) no-repeat center center fixed;
   background-size: cover;
   font-size: 19px;
 }
@@ -26,7 +26,7 @@ body {
 
 .image-header {
  width: 100%;
- height: auto;
+ height: 122px;
 }
 
 .searchbar {
@@ -114,7 +114,7 @@ color: white;
 }
 
 #Sidebar {
-  padding-top: 20px;
+  padding-top: 2px;
   width: 200px;
   min-height: 400px;
   background-color: rgba(255, 255, 255, 0.8);
